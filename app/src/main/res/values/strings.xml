@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OpenWeatherAPI</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="weatherTitle">Погода</string>
+    <string name="currentWeather">Сейчас в $s:</string>
+    <string name="currentTemp">Температура: %i Cº</string>
+    <string name="currentWind">Скорость ветра: %i км/ч</string>
+    <string name="currentHumidity">Влажность: %i %</string>
+    <string name="currentSky">Облачность: %s</string>
+    <string name="WebView">WebView</string>
+    <string name="webviewTitle">WebView</string>
+    <string name="fiveDayForecast">Прогноз на пять дней:</string>
+    <string name="timestamp">Дата: %s</string>
+</resources>
